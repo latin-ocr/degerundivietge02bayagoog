@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./degerundivietge02bayagoog_0087.png"; bbox 0 0 921 1394; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 437 540 461 550">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 437 540 461 550">
+     <span class='ocr_line' id='line_1_1' title="bbox 437 540 461 550; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 437 540 461 550; x_wconf 71' lang='lat' dir='ltr'>zm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 437 570 578 616">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 437 570 578 616">
+     <span class='ocr_line' id='line_1_2' title="bbox 443 570 545 588; baseline 0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 443 570 459 585; x_wconf 83' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_3' title='bbox 470 570 545 588; x_wconf 73' lang='lat' dir='ltr'>Sol-boun,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 437 597 578 616; baseline 0 -4"><span class='ocrx_word' id='word_1_4' title='bbox 437 602 455 612; x_wconf 82' lang='lat' dir='ltr'>›r.</span> <span class='ocrx_word' id='word_1_5' title='bbox 465 602 503 613; x_wconf 70' lang='lat' dir='ltr'>ann.</span> <span class='ocrx_word' id='word_1_6' title='bbox 513 597 578 616; x_wconf 74' lang='lat' dir='ltr'>MCMss,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 437 632 644 680">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 437 632 644 680">
+     <span class='ocr_line' id='line_1_4' title="bbox 437 632 644 645; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 437 632 501 645; x_wconf 58' lang='lat' dir='ltr'>&#39;unitata</span> <span class='ocrx_word' id='word_1_8' title='bbox 507 632 581 645; x_wconf 65' lang='lat' dir='ltr'>varitiam</span> <span class='ocrx_word' id='word_1_9' title='bbox 587 633 644 645; x_wconf 67' lang='lat' dir='ltr'><strong><em>Doeanu</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 437 664 491 680; baseline 0.037 -2"><span class='ocrx_word' id='word_1_10' title='bbox 437 664 491 680; x_wconf 69' lang='lat' dir='ltr'>usm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 524 743 742 822">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 524 743 742 822">
+     <span class='ocr_line' id='line_1_6' title="bbox 568 743 703 756; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 568 743 613 756; x_wconf 66' lang='lat' dir='ltr'>&#39;nm</span> <span class='ocrx_word' id='word_1_12' title='bbox 622 746 703 756; x_wconf 65' lang='lat' dir='ltr'>munuum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 524 775 742 788; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 524 775 601 788; x_wconf 65' lang='lat' dir='ltr'>Amdsmiaae</span> <span class='ocrx_word' id='word_1_14' title='bbox 609 775 689 788; x_wconf 56' lang='lat' dir='ltr'>Parmam}</span> <span class='ocrx_word' id='word_1_15' title='bbox 697 775 742 788; x_wconf 67' lang='lat' dir='ltr'>uector</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 587 803 677 822; baseline -0.011 0"><span class='ocrx_word' id='word_1_16' title='bbox 587 803 677 822; x_wconf 66' lang='lat' dir='ltr'>(mmm).</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
